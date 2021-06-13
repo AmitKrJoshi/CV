@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: amitsuper.joshi@gmail.com
     phone: +91-xx8xxxxxxx
-    website: amitkrjoshi.github.io/ #do not add http://
+    website: amitkrjoshi.github.io #do not add http://
     linkedin: amitkrjoshi
     #xing: alandoe
     github: AmitKrJoshi
@@ -153,4 +153,4 @@ skills:
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
