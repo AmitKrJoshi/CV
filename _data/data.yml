@@ -59,38 +59,37 @@ experiences:
       time: September 7, 2015 - Present
       company: Siemens Technology and Service Pvt. Ltd., Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Initially
           - Bullet point
           - Bullet point
+          
     - role: Project Engineer
       time: August 27, 2012 - August 27, 2015
       company: Wipro Ltd., Bangalore
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Initially as part of team I had worked in Unit testing. 
+        Here I was responsible to Develop Unit Test case for the project by writing code in C++ using Google Test (GTest).
+        Afterwards as part of development team I was working in a simulation tool named CT (Communication Tester). 
+        Communication Tester (CT) was developed for AXC environment and later for the FTM environment for simulating various 
+        Signaling and Data scenarios, rather than using the various expensive test equipment which were needed for testing these 
+        scenarios for ATM Iub, IP Iub and Dual Iub, Multibearer configurations. 
+        Working in this project has given me exposer to good quality code in advanced C and C++.
+          -	For Requirements Gathering and Analysis       
+          •	For timely delivery of the deliverables including appropriate documentation
+          •	For enhancement, development, support and maintenance of a complete tool.
+          •	To respond to technical queries / requests from team members and customers.
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      List of projects I have worked during my professional carrier.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: FTM (Flexy Transport Module) - Wipro Technology.
+        link: #"#hook"
+        tagline: "This project was in telecom domain for leading telecom company Nokia Solution. 
+        This project was about enhancement of FTM (Flexy Transport Module) feature. 
+        FTM is a board that resides in BTS. It functions as an interface between BTS and RNC. 
+        All the information about the network that stores inside BTS is to be sent to RNC through FTM."
 
       - title: DevStudio
         link: "#"
