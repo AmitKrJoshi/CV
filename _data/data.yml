@@ -66,25 +66,23 @@ experiences:
     - role: Project Engineer
       time: August 27, 2012 - August 27, 2015
       company: Wipro Ltd., Bangalore
-      details: |
-        Initially as part of team I had worked in Unit testing. 
+      details: | 
         Here I was responsible to Develop Unit Test case for the project by writing code in C++ using Google Test (GTest).
         Afterwards as part of development team I was working in a simulation tool named CT (Communication Tester). 
         Communication Tester (CT) was developed for AXC environment and later for the FTM environment for simulating various 
         Signaling and Data scenarios, rather than using the various expensive test equipment which were needed for testing these 
         scenarios for ATM Iub, IP Iub and Dual Iub, Multibearer configurations. 
-        Working in this project has given me exposer to good quality code in advanced C and C++.
-          -	For Requirements Gathering and Analysis       
-          •	For timely delivery of the deliverables including appropriate documentation
-          •	For enhancement, development, support and maintenance of a complete tool.
-          •	To respond to technical queries / requests from team members and customers.
+        Working in this project has given me exposer to good quality code in advanced C and C++. My roles and responsibility was     
+          -	For timely delivery of the deliverables including appropriate documentation
+          -	For enhancement, development, support and maintenance of a complete CT tool.
+          -	To respond to technical queries / requests from team members.
 
 projects:
     title: Projects
     intro: >
       List of projects I have worked during my professional carrier.
     assignments:
-      - title: FTM (Flexy Transport Module) - Wipro Technology.
+      - title: FTM (Flexy Transport Module)[ Wipro Technology ]
         link: #"#hook"
         tagline: "This project was in telecom domain for leading telecom company Nokia Solution. 
         This project was about enhancement of FTM (Flexy Transport Module) feature. 
@@ -107,27 +105,40 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
+strengths:
+    title: Strengths
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
+      -	Believe in team work, good team player , 
+      -	Ability to work in large teams and proactively working with the team to resolve team issues.
+      -	Adaptive nature.
+      -	Punctuality
+      -	Persevere
+      -	Energetic and enthusiastic.
+      -	Able to work independently if required 
+      -	Strong analytical, communication skills
+      -	positive attitude
+      -	Self-motivated and goal-oriented.
+      -	Hands on experience in application development using C and C++ on UNIX or Linux platform.
+      -	Strong debugging and troubleshooting skills
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    # papers:
+      # - title: The Art of Computer Programming
+        # link: "#"
+        # authors: Donald E. Knuth
+        # conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      # - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        # link: "#"
+        # authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        # conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      # - title: A syntax directed compiler for Algol 60
+        # link: "#"
+        # authors: Edgar T. Irons
+        # conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
