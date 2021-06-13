@@ -108,22 +108,25 @@ projects:
 strengths:
     title: Strengths
     intro: |
-      # You can list your publications in this section. Lorem ipsum dolor sit
-      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      # bibendum fringilla a eu lectus.
       -	Believe in team work, good team player , 
       -	Ability to work in large teams and proactively working with the team to resolve team issues.
       -	Adaptive nature.
-      -	Punctuality
-      -	Persevere
-      -	Energetic and enthusiastic.
-      -	Able to work independently if required 
-      -	Strong analytical, communication skills
-      -	positive attitude
-      -	Self-motivated and goal-oriented.
-      -	Hands on experience in application development using C and C++ on UNIX or Linux platform.
+      - Hands on experience in development using C and C++ on Windows and Linux platform.
       -	Strong debugging and troubleshooting skills
-
+      -	Good team player yet able to work independently if required.
+      -	Proactively work with team to resolve team issues.
+      -	Adaptive nature and Positive attitude
+      -	Punctuality, Persevere.
+      -	Energetic and enthusiastic.
+      -	Strong analytical, communication skills.
+      -	Self-motivated and goal-oriented.
+      
+# publications:
+    # title: Publications
+    # intro: |
+      # You can list your publications in this section. Lorem ipsum dolor sit
+      # amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      # bibendum fringilla a eu lectus.
     # papers:
       # - title: The Art of Computer Programming
         # link: "#"
@@ -144,23 +147,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C++ 
+        level: 75%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Data structure
+        level: 50%
 
-      - name: Angular
-        level: 98%
+      - name: Algorithms
+        level: 45%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Design Pattern
+        level: 50%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Python
+        level: 33%
 
-      - name: Sketch & Photoshop
-        level: 60%
+# TODO - familiar:
 
 footer: >
     Designed by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
